@@ -152,6 +152,10 @@ a {
 .loc-hours  h2 {
 	padding: 1rem 2rem;
 }
+
+.loc-hours > div {
+	margin-bottom: .25rem;
+}
 .loc-hours span {
 	color: black;
 }
